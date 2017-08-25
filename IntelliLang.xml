@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="xml">
+      <display-name>Array</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("Array")).withNamespace(string().equalTo("http://javafx.com/fxml"))]]></place>
+    </injection>
+  </component>
+</application>
